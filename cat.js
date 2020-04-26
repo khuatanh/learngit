@@ -4,3 +4,4 @@ function Cat (name){
 Cat.prototype.sleep = function(){
 	console.log ('zzzzzzzz')
 }
+ module.exports = Cat;
