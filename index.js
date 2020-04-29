@@ -6,7 +6,7 @@ var cat = new Cat();
 var dog = new Dog ();
 
 try {
-	cat.eat(mouse1);
+	cat.eat(dog);
 }
 catch (error) {
 	console.log('cat can eat mouse only!');
