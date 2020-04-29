@@ -1,3 +1,3 @@
-function run (){
-	console.log('runing...');
+function jumd (){
+	console.log('jumd...');
 }
