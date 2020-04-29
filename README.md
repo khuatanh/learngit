@@ -1,2 +1,3 @@
-new project
-aaaaaaaaaa
+project includes :
+cat.js
+mouse.js
