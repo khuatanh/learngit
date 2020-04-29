@@ -9,6 +9,6 @@ Cat.prototype.eat = function(animal){
 	}else{
 		throw new Error ('Cat can eat Mouse only!');
 	}
-	
+
 }
  module.exports = Cat;
