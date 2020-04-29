@@ -1,3 +1,3 @@
 project includes :
-cat.js
-mouse.js
+* cat.js
+* mouse.js
