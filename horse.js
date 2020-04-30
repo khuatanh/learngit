@@ -1,3 +1,3 @@
 function jumd (){
-	console.log('jumd....');
+	console.log('jumd...');
 }
